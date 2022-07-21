@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/tiagocsl">
 <!--   //<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagocsl&&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&title_color=8726bd"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocsl&layout=compact&langs_count=4&theme=vue-dark&title_color=8726bd"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocsl&layout=compact&langs_count=5&theme=vue-dark&title_color=8726bd"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Tigas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
